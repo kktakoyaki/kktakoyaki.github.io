@@ -315,6 +315,10 @@ input, select, textarea {
 		text-align: right;
 	}
 
+	.formatted-comment {
+		white-space: pre-line;
+	}
+
 /* Row */
 
 	.row {
