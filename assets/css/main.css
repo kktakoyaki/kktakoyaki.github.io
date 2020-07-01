@@ -197,7 +197,7 @@ input, select, textarea {
 
 	h2, h3, h4, h5, h6 {
 		line-height: 1.5;
-		margin: 0 0 2em 0;
+		margin: 1em 0 1em 0;
 		text-transform: none;
 		letter-spacing: normal;
 	}
@@ -389,7 +389,7 @@ input, select, textarea {
 		}
 
 		.row > .col-4 {
-			width: 33.33333%;
+			width: 25%;
 		}
 
 		.row > .off-4 {
@@ -632,7 +632,7 @@ input, select, textarea {
 				}
 
 				.row > .col-4-xlarge {
-					width: 33.33333%;
+					width: 25%;
 				}
 
 				.row > .off-4-xlarge {
@@ -877,7 +877,7 @@ input, select, textarea {
 				}
 
 				.row > .col-4-large {
-					width: 33.33333%;
+					width: 25%;
 				}
 
 				.row > .off-4-large {
@@ -1122,7 +1122,7 @@ input, select, textarea {
 				}
 
 				.row > .col-4-medium {
-					width: 33.33333%;
+					width: 25%;
 				}
 
 				.row > .off-4-medium {
@@ -1367,7 +1367,7 @@ input, select, textarea {
 				}
 
 				.row > .col-4-small {
-					width: 33.33333%;
+					width: 25%;
 				}
 
 				.row > .off-4-small {
@@ -1612,7 +1612,7 @@ input, select, textarea {
 				}
 
 				.row > .col-4-xsmall {
-					width: 33.33333%;
+					width: 25%;
 				}
 
 				.row > .off-4-xsmall {
@@ -2579,7 +2579,7 @@ input, select, textarea {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		postiion: relative;
+		position: relative;
 		margin: -2.5em 0 0 -2.5em;
 	}
 
