@@ -116,11 +116,11 @@ input, select, textarea {
 /* Type */
 
 	/* Highlighters */
-	.highlightmerah { background-color:rgba(204, 0, 0, 0.2); }
-	.highlighthijau { background-color: rgba(65, 201, 110, 0.2); }
-	.highlightbiru { background-color:rgba(0, 102, 153, 0.1); }
-	.highlightemas { background-color: rgba(204, 153, 0, 0.25); }
-	.highlightungu { background-color:rgba(204, 0, 204, 0.25); }
+	.mark-pink { background-color:rgba(204, 0, 0, 0.25); }
+	.mark-hejo { background-color: rgba(65, 201, 110, 0.25); }
+	.mark-blue { background-color:rgba(0, 102, 153, 0.15); }
+	.mark-gold { background-color: rgba(204, 153, 0, 0.25); }
+	.mark-ungu { background-color:rgba(204, 0, 204, 0.25); }
 
 	body, input, select, textarea {
 		color: #595959;
