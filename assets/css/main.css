@@ -117,7 +117,7 @@ input, select, textarea {
 
 	/* Highlighters */
 	.mark-pink { background-color:rgba(204, 0, 0, 0.25); }
-	.mark-hejo { background-color: rgba(65, 201, 110, 0.25); }
+	.mark-hejo { background-color: rgba(103, 201, 65, 0.35); }
 	.mark-blue { background-color:rgba(0, 102, 153, 0.15); }
 	.mark-gold { background-color: rgba(204, 153, 0, 0.25); }
 	.mark-ungu { background-color:rgba(204, 0, 204, 0.25); }
@@ -321,7 +321,7 @@ input, select, textarea {
 		text-align: right;
 	}
 
-	.formatted-comment {
+	.paragraph {
 		white-space: pre-line;
 	}
 
@@ -1855,17 +1855,17 @@ input, select, textarea {
 			transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 			background-color: transparent;
 			border: solid 1px #c9c9c9;
-			border-radius: 4px;
-			width: 2.65em;
-			height: 2.65em;
+			border-radius: 10px;
+			width: 3em;
+			height: 3em;
 			display: inline-block;
 			text-align: center;
-			line-height: 2.65em;
+			line-height: 3em;
 			color: inherit;
 		}
 
 			.icon.style2:before {
-				font-size: 1.1em;
+				font-size: 1.25em;
 			}
 
 			.icon.style2:hover {
@@ -3222,7 +3222,7 @@ input, select, textarea {
 				margin-top: 5em;
 				list-style: none;
 				font-size: 0.8em;
-				color: rgba(88, 88, 88, 0.5);
+				color: rgba(0, 0, 0, 0.5);
 			}
 
 				#footer > .inner .copyright a {
@@ -3231,7 +3231,7 @@ input, select, textarea {
 
 				#footer > .inner .copyright li {
 					display: inline-block;
-					border-left: solid 1px rgba(88, 88, 88, 0.15);
+					border-left: solid 1px rgba(0, 0, 0, 0.25);
 					line-height: 1;
 					padding: 0 0 0 1em;
 					margin: 0 0 0 1em;
