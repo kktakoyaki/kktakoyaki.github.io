@@ -156,6 +156,14 @@ input, select, textarea {
 	}
 
 		a:hover {
+			color: #f2849e !important;
+		}
+
+	.dotted {
+		border-bottom: dotted 2px #595959bb;
+	}
+	
+		.dotted:hover {
 			border-bottom-color: transparent;
 			color: #f2849e !important;
 		}
