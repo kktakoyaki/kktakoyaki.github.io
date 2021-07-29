@@ -2732,15 +2732,15 @@ input, select, textarea {
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #f2849e;
+				background-color: #df6f89;
 			}
 
 			.tiles article.style2 > .image:before {
-				background-color: #7ecaf6;
+				background-color: #4e96c0;
 			}
 
 			.tiles article.style3 > .image:before {
-				background-color: #7bd0c1;
+				background-color: #4c9789;
 			}
 
 			.tiles article.style4 > .image:before {
@@ -2748,11 +2748,11 @@ input, select, textarea {
 			}
 
 			.tiles article.style5 > .image:before {
-				background-color: #ae85ca;
+				background-color: #9b6eb9;
 			}
 
 			.tiles article.style6 > .image:before {
-				background-color: #e7cd84;
+				background-color: #b9942d;
 			}
 
 			body:not(.is-touch) .tiles article:hover > .image {
