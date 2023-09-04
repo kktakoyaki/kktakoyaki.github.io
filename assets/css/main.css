@@ -116,10 +116,10 @@ input, select, textarea {
 /* Type */
 
 	/* Highlighters */
-	.mark-pink { background-color:rgba(204, 0, 0, 0.25); }
-	.mark-hejo { background-color: rgba(103, 201, 65, 0.35); }
-	.mark-blue { background-color:rgba(0, 102, 153, 0.15); }
-	.mark-gold { background-color: rgba(204, 153, 0, 0.25); }
+	.mark-pink { background-color:rgba(255, 54, 121, 0.25); }
+	.mark-hejo { background-color: rgba(0, 255, 55, 0.25); }
+	.mark-blue { background-color:rgba(0, 170, 255, 0.25); }
+	.mark-gold { background-color: rgba(221, 169, 0, 0.25); }
 	.mark-ungu { background-color:rgba(204, 0, 204, 0.25); }
 
 	body, input, select, textarea {
@@ -2732,27 +2732,31 @@ input, select, textarea {
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #df6f89;
+				background-color: #ff21a2cc;
 			}
 
 			.tiles article.style2 > .image:before {
-				background-color: #4e96c0;
+				background-color: #0011ffcc;
 			}
 
 			.tiles article.style3 > .image:before {
-				background-color: #4c9789;
+				background-color: #b10000cc;
 			}
 
 			.tiles article.style4 > .image:before {
-				background-color: #c75b5b;
+				background-color: #b60000cc;
 			}
 
 			.tiles article.style5 > .image:before {
-				background-color: #9b6eb9;
+				background-color: #6200ffcc;
 			}
 
 			.tiles article.style6 > .image:before {
-				background-color: #b9942d;
+				background-color: #189200cc;
+			}
+
+			.tiles article.style7 > .image:before {
+				background-color: #ff9900cc;
 			}
 
 			body:not(.is-touch) .tiles article:hover > .image {
@@ -2763,8 +2767,8 @@ input, select, textarea {
 			}
 
 				body:not(.is-touch) .tiles article:hover > .image:before {
-					background-color: #333333;
-					opacity: 0.75;
+					background-color: #000000;
+					opacity: 0.5;
 				}
 
 				body:not(.is-touch) .tiles article:hover > .image:after {
